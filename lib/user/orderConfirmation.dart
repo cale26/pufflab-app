@@ -195,6 +195,4 @@ class OrderConfirmationPage extends StatelessWidget {
   }
 }
 
-// This line is to indicate "Cancel Button" feature for SCM Project Purpose
-// This is the latest changes
-// This line indicate the latest changes for SCM Project
+// This line is to indicate Scenario 3:Major Change for SCM Project Purpose
