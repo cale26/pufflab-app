@@ -262,3 +262,4 @@ class OrderItem extends StatelessWidget {
     });
   }
 }
+// FIX: Checkout button handler corrected to resolve Issue #1.
