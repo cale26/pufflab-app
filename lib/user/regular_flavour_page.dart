@@ -171,3 +171,4 @@ class RegularFlavourPage extends StatelessWidget {
     );
   }
 }
+// FIX: Add product rating display to resolve Issue #2
